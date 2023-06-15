@@ -3,6 +3,10 @@
 
 Helps analyse Elixir/Phoenix stacktraces with help of ChatGPT.
 
+## ASCIIcast
+
+[![asciicast](https://asciinema.org/a/pD3NqbRZewJ8gt9y6HO7AZvSY.svg)](https://asciinema.org/a/pD3NqbRZewJ8gt9y6HO7AZvSY)
+
 ## Installation
 
 ### Dependencies
