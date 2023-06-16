@@ -51,6 +51,8 @@ config :stacktrace_gpt,
   model: "gpt-3.5-turbo"
 ```
 
+*At the moment of writing (16.06.2023) model `gpt-4` is currently in a limited beta and only accessible to those who have been granted access. Please [join the waitlist](https://openai.com/waitlist/gpt-4-api) to get access when capacity is available.*
+
 #### Run mix task
 
 ```bash
