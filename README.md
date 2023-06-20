@@ -101,4 +101,4 @@ be found at [https://hexdocs.pm/stacktrace_gpt](https://hexdocs.pm/stacktrace_gp
 
 ## License
 
-The package is available as open source under the terms of the [MIT License](https://github.com/alexfilatov/stacktrace_gpt/LICENSE).
+The package is available as open source under the terms of the [MIT License](https://github.com/alexfilatov/stacktrace_gpt/blob/main/LICENSE).
