@@ -4,7 +4,7 @@ defmodule StacktraceGpt.MixProject do
   def project do
     [
       app: :stacktrace_gpt,
-      version: "0.1.2",
+      version: "0.1.3",
       elixir: "~> 1.12",
       start_permanent: Mix.env() == :dev,
       deps: deps(),
